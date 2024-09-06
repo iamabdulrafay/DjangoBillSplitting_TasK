@@ -161,7 +161,7 @@ Welcome to the Bill Splitting API! This API provides endpoints to handle various
 
 ### 5. Advanced Bill Splitting with Shared Items
 
-**Endpoint:** `/bil-splitting`  
+**Endpoint:** `/bill-splitting`  
 **Method:** `POST`  
 **Description:** Splits a bill where some items are shared among certain users.
 
